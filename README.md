@@ -1,2 +1,1 @@
-# Text-Classification-using-1D-CNN-models
-Text Classification using 1D CNN models
+In this project, we will perform the text classification of Newsgroup20 dataset. We will classify all the text documents in this dataset into one of the twenty classes. We will use python regex for text pre-processing. We will train two 1 D Convolutional Neural Network Models which will use word embeddings and character embeddings respectively. The data for this project can be downloaded from this link https://drive.google.com/file/d/1rxD15nyeIPIAZ-J2VYPrDRZI66-TBWvM/view
